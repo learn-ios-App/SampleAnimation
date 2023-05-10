@@ -11,6 +11,7 @@
 		8B3CE4B02A0BDCD60039CD6B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CE4AF2A0BDCD60039CD6B /* ContentView.swift */; };
 		8B3CE4B22A0BDCD70039CD6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CE4B12A0BDCD70039CD6B /* Assets.xcassets */; };
 		8B3CE4B52A0BDCD70039CD6B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CE4B42A0BDCD70039CD6B /* Preview Assets.xcassets */; };
+		8B3CE4BC2A0BE9CA0039CD6B /* Sample2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CE4BB2A0BE9CA0039CD6B /* Sample2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8B3CE4AF2A0BDCD60039CD6B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8B3CE4B12A0BDCD70039CD6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B3CE4B42A0BDCD70039CD6B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8B3CE4BB2A0BE9CA0039CD6B /* Sample2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				8B3CE4AD2A0BDCD60039CD6B /* SampleAnimationApp.swift */,
+				8B3CE4BB2A0BE9CA0039CD6B /* Sample2View.swift */,
 				8B3CE4AF2A0BDCD60039CD6B /* ContentView.swift */,
 				8B3CE4B12A0BDCD70039CD6B /* Assets.xcassets */,
 				8B3CE4B32A0BDCD70039CD6B /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B3CE4BC2A0BE9CA0039CD6B /* Sample2View.swift in Sources */,
 				8B3CE4B02A0BDCD60039CD6B /* ContentView.swift in Sources */,
 				8B3CE4AE2A0BDCD60039CD6B /* SampleAnimationApp.swift in Sources */,
 			);
